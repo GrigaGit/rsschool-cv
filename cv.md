@@ -1,8 +1,8 @@
 # rsschool-cv
-# **Dmitrii Grigorenko** ![photo](‪/C:\Users\d8922\Desktop\B0382oQmms8.jpg "photo")
+# **Dmitrii Grigorenko** ![photo](‪f980f894-3cd8-4cdd-80b1-aa4a2efd6e06.jpg)
 # Contacts
-## * [Telegram][https://t.me/Griga2310]
-## * [Github][https://github.com/GrigaGit]
+## * [Telegram](https://t.me/Griga2310)
+## * [Github](https://github.com/GrigaGit)
 # Summary
 ## I am currently enrolled in a course at the Rolling Scopes School. In the past, I was not connected with the IT sphere, but I have a craving for new knowledge. In the fut]ure, I see myself as a Frontend JS developer.
 # Skills
